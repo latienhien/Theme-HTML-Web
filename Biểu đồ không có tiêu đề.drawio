@@ -1,25 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T06:50:51.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="0O1csMfxz-alvGNw2Y64" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-22T09:05:22.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="wEBb-Mmdl42k3nzd29uU" version="24.4.4" type="github">
   <diagram name="Trang-1" id="qJCDaG_ORHdLh7Q5kiZg">
-    <mxGraphModel dx="1290" dy="603" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="709" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="O6UF7CCYmx_V8bnEFiT7-3" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="44" y="386" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O6UF7CCYmx_V8bnEFiT7-5" value="Organizational Structure" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O6UF7CCYmx_V8bnEFiT7-5" value="Chat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="358" y="421" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="O6UF7CCYmx_V8bnEFiT7-6" value="&lt;div&gt;Employee Profiles&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O6UF7CCYmx_V8bnEFiT7-6" value="&lt;div&gt;Team/group chat&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="358" y="304" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="O6UF7CCYmx_V8bnEFiT7-7" value="Directory" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O6UF7CCYmx_V8bnEFiT7-7" value="Send files" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="358" y="539" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="O6UF7CCYmx_V8bnEFiT7-8" value="Team members" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O6UF7CCYmx_V8bnEFiT7-8" value="Sign in/out/up" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="358" y="656" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="O6UF7CCYmx_V8bnEFiT7-9" value="Employee Management" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O6UF7CCYmx_V8bnEFiT7-9" value="Manages Channels" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="358" y="186" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O6UF7CCYmx_V8bnEFiT7-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="O6UF7CCYmx_V8bnEFiT7-3" target="O6UF7CCYmx_V8bnEFiT7-9">
@@ -61,8 +61,8 @@
             <mxPoint x="574" y="436" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O6UF7CCYmx_V8bnEFiT7-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;People Management&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="324" y="152" width="192" height="34" as="geometry" />
+        <mxCell id="O6UF7CCYmx_V8bnEFiT7-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Message&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="373" y="152" width="94" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
